@@ -1,5 +1,6 @@
 **What the project does?** 
-- This is a game where one has to guess a word with limited lives (chances). 
+- This is a game where one has to guess a word with limited lives (chances).
+- you will work with dictionaries, lists, and nested if statements. You will also work with the string and random Python modules
   
 **How to run it?**
 - You can copy the code and run it in Visual Studio Code (VS Code)

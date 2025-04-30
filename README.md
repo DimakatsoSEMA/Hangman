@@ -1,4 +1,9 @@
-**What the project does?** 
+![download](https://github.com/user-attachments/assets/e4ae36f1-84a2-44c8-8600-e009a1bd063d)
+
+
+
+**What the project does?**
+
 - This is a game where one has to guess a word with limited lives (chances).
 - you will work with dictionaries, lists, and nested if statements. You will also work with the string and random Python modules
   
